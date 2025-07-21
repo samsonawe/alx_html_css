@@ -1,0 +1,2 @@
+This week on ALX, I'm diving into CSS (Cascading Style Sheets) — learning how to style HTML elements, control layouts, apply colors, fonts, spacing, and make web pages visually appealing and responsive. 
+It’s all about bringing structure to life with design!
