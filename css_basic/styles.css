@@ -1,3 +1,8 @@
+header {
+  background-color: #f3b65c;
+  padding: 1em;
+  text-align: center;
+}
 body, main {
   display: flex;
 }
@@ -5,6 +10,7 @@ body {
   flex-direction: column;
 }
 main {
+    background-color: #f1e1b4;
   flex-direction: row;
   flex: auto;
 }
@@ -12,8 +18,35 @@ article {
   flex: 2;
 }
 aside {
+    background-color: #fffbf0;
   flex: 1;
 }
 article, aside {
   overflow-y: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font: 100 100 1.2em 'Yeseva One', sans-serif;
+  color: #4e0030;
+}
+body a {
+  text-decoration: none;
+  color: #9578ff;
+}
+body a:hover {
+  color: #e40548;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  font: 100 100 1.2em 'Yeseva One', sans-serif;
+  color: #ffffff;
+  background-color: #836615;
+}
+footer a {
+  text-decoration: none;
+  color: #693131;
+}
+footer a:hover {
+  color: #e40548;
 }
