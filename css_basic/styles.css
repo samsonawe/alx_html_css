@@ -3,6 +3,16 @@ header {
   padding: 1em;
   text-align: center;
 }
+header h1 {
+  font-family: 'Yeseva One', sans-serif;
+  color: #690543;
+  text-align: left;
+  margin: 0;
+}
+header h1 a {
+  color: #690543;
+  text-decoration: none;
+}
 body, main {
   display: flex;
 }
