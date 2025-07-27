@@ -4,7 +4,7 @@ Welcome to the **SmileSchool Homepage Clone** – a visually engaging and respon
 
 ---
 
-![SmileSchool Hero Screenshot](./assets/hero.png)
+![SmileSchool Hero Screenshot](./images/hero.png)
 
 > “Smiles, grins, laughs – Get schooled by the best in the business.” 🎓😁
 
@@ -59,19 +59,19 @@ No frameworks. No dependencies. Just open it in your browser.
 ## 📸 Project Screenshots
 
 > Hero Section
-> ![Hero](./assets/hero.png)
+> ![Hero](./images/hero.png)
 
 > Testimonials
-> ![Testimonials](./assets/testimonials.png)
+> ![Testimonials](./images/testimonials.png)
 
 > Tutorials
-> ![Tutorials](./assets/tutorials.png)
+> ![Tutorials](./images/tutorials.png)
 
 > Membership
-> ![Membership](./assets/membership.png)
+> ![Membership](./images/membership.png)
 
 > FAQ
-> ![FAQ](./assets/faq.png)
+> ![FAQ](./images/faq.png)
 
 ---
 
