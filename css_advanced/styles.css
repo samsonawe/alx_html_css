@@ -349,3 +349,52 @@ nav a {
   margin-bottom: 40px;
   max-width: 95%;
 }
+
+footer {
+  background-color: #071629;
+  padding: 100px 20px 50px;
+  color: white;
+}
+
+footer section {
+  max-width: 1200px;
+  height: 120px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+footer section > div {
+  display: flex;
+  width: 100%;
+  max-width: 300px;
+}
+
+footer img {
+  height: 35px;
+  width: auto;
+  margin-right: 1000px;
+  display: block;
+}
+
+footer .social-icons {
+  display: flex;
+  gap: 20px;
+}
+
+footer .social-icons i {
+  font-size: 1.5rem;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer p {
+  font-size: 0.9rem;
+  color: #8D8D8D;
+  margin-top: 40px;
+  text-align: center;
+}
